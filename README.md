@@ -15,6 +15,7 @@ This project is to simulate a hangar base using arduino components. The base wil
 The system uses distance sensing to determine if an object is present, and can optionally identify specific models using RFID tags.
 
 Notes: Originally, I attempt to use RFID (MFRC522) to identify specific Gunpla units and display unique stats. However, due to technical issues—despite correct wiring and working code—the RFID module failed to detect any tags. As a result, the project was refactored to rely entirely on a distance sensor (HC-SR04) for presence detection.
+
 ---
 
 ## 🧩 Required Components
