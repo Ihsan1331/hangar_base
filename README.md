@@ -54,3 +54,9 @@ Gunpla Detected
 ---
 ## Wiring and PCB
 I only put the wiring diagram and PCB design for using the MFRC522 RFID Reader
+WIRING
+![Hangar Base PCB_bb](https://github.com/user-attachments/assets/4c3246b9-67d4-400d-83a5-00317a50e117)
+
+
+PCB
+![image](https://github.com/user-attachments/assets/51999105-3888-43dd-8bea-1b0c5ede8d59)
